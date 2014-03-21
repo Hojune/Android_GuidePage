@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_guild_main"
+        android:layout_width="fill_parent"
+        android:layout_alignParentTop="true"
+        android:background="#ecf0f1"
+        android:layout_height="fill_parent" >
+    </android.support.v4.view.ViewPager>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="30dip"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="40dip"
+
+        >
+
+        <LinearLayout
+            android:id="@+id/vg_guid_main"
+            android:layout_width="fill_parent"
+            android:layout_height="30dip"
+
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+    </RelativeLayout>
+    <Button
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_guid_gotomain"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="25dip"
+        android:text="start"
+        />
+</RelativeLayout>
