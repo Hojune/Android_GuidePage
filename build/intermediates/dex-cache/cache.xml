@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/.android/build-cache/e35f92b6e3ab8ad474df9cffc1b569bef98c446e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/classes_3f5f913d85dd3894e6efe43cceae4da30dcbd53f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/.android/build-cache/06c9b5dddfd6bd43dd64a78a3702448083775faa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/classes_2c9013d7897b65907abc3cf6e76be638bc4862d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/.android/build-cache/b8e1588a377cc2e7e34686c29f1c14cad47584e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/classes_451bf73627bf95b36dbc5925d68a80ceedda6611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/.android/build-cache/9326133cb41bc84b9bdbdf862da21125acf88113/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/classes_6d1f9ad9f9e27a253b31bd4c245560aea00b9d83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/.android/build-cache/7fc25621485e05b3edc27d055366eb2c72c15ff5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/classes_ee56f34312f62da372d08186737775e52f474b10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/software/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_b535aea5b9766205088dc5cc3b8a5e2ae2b19628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/.android/build-cache/aa2b2baab61b93e17530a5af80289da06adc7529/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/classes_026a4dc426e4c7322630a97c289f0a23b76c2108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/.android/build-cache/8776054fcca7ff67a936090c489dedd9d1af5c70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/classes_3d860c5bf0e20a18bdb71bcf0cc694d44283f1d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/.android/build-cache/637a4cb3b45805fbe776095cec780912a24aa5b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/classes_988436a2f3856f1f7685081c755adeff9ada25a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/software/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_6a9fc26cfacd5a8a3abc1f4dc87c29a093e6dbb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/.android/build-cache/51e2d04d7a78daa78e1aa34ea5c2fb103c17f63d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/classes_1d60e934bea0929ca7ce5e4ab1587c216315d572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/socoolby/.android/build-cache/ef3de12edc74753fa16b2168f30f109b089ffe39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/socoolby/AndroidStudioProjects/GuidePage/app/build/intermediates/pre-dexed/debug/classes_9d972b6da49a2eb8dcecb2350570bec3c2b8e9fc.jar" />
+    </item>
+
+</items>

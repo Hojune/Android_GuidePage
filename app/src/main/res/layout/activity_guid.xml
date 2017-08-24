@@ -16,7 +16,7 @@
         android:layout_height="30dip"
         android:orientation="vertical"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="40dip"
+        android:layout_marginBottom="50dip"
 
         >
 
@@ -36,7 +36,7 @@
         android:id="@+id/btn_guid_gotomain"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="25dip"
-        android:text="start"
+        android:layout_marginBottom="20dip"
+        android:text="@string/start"
         />
 </RelativeLayout>
