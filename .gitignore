@@ -3,3 +3,5 @@
 /.idea/workspace.xml
 .DS_Store
 app/build
+build
+.idea
